@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="center">
 
 # Projeto Portfólio Dynamic Modal - Aplicação Mobile React Native
 
