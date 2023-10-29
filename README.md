@@ -23,8 +23,9 @@ Aplicação Front-end Mobile desenvolvida em React Native para layout de Modal D
 <br><br>
 
 <div align="center">
+  
+![home](https://github.com/RenanBorba/react-native-dynamic-modal/assets/48495838/3fdcaf54-fcd0-40e7-a0d9-543c1c01d2ab)
 
-![modal-mobile](https://user-images.githubusercontent.com/48495838/85452046-de5fb400-b570-11ea-9dfb-6cff512bd750.png)
 
 </div>
 
